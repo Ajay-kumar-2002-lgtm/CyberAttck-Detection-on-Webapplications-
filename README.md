@@ -52,4 +52,4 @@ This project applies advanced techniques like graph-based segmentation and seque
 
 1. Clone the repository  
 ```bash
-git clone https://github.com/Ajay-kumar-2002-lgtm/CyberAttck-Detection-on-Webapplications
+git clone https://github.com/Ajay-kumar-2002-lgtm/CyberAttck-Detection-on-Webapplications-.git
